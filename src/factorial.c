@@ -1,7 +1,7 @@
 #include "factorial.h"
 
 int check1(char t[10])
-{
+{   
     if(strcmp(t,"wet")==0)
         {
             a=1;
